@@ -183,7 +183,7 @@
 
    @media screen and (max-width:701px) {
     .container .card-container{width: 450px;}
-    .container form{width: 95%;}
+    .container form{width: 100%;}
     /* .container form .flexbox{flex-basis: 65%; max-width: 65%;} */
     .container .card-container .front .img{width: 50px; padding: 10px;}
     .visaimg{margin: 0px 75px;}
@@ -194,7 +194,7 @@
    @media screen and (max-width:500px) {
     .container .card-container{width: 380px;}
     .container form .flexbox{gap: 0px;}
-    /* .container form{width: 100%;} */
+     .container form{width: 100%;} 
     .visaimg{margin: 0px 30px;}
     .cvv-input{margin: 0px -15px;}
     .inputbox{margin: 0px 20px; } 
